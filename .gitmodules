@@ -3,7 +3,7 @@
 	url = https://github.com/xrp-project/wiredtiger.git
 [submodule "linux"]
 	path = linux
-	url = https://github.com/xrp-project/linux.git
+	url = https://github.com/m0joonKim/linux.git
 [submodule "BPF-KV"]
 	path = BPF-KV
 	url = https://github.com/xrp-project/BPF-KV.git
